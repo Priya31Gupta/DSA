@@ -12,74 +12,6 @@
 
 </div> -->
 
-## Arrays
-
-- [ ] Sieve
-- [ ] Catalan Numbers
-- [ ] Sliding Window Technique
-- [ ] Recursion and Backtracking 
-- [ ] Binary Search [(TopCoder)](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search)
-- [ ] BacktoBackSWE Playlist
-- [ ] Tortoise and Hare Pointer 
-
-## Trees
-
-- [ ] Flatten Tree
-- [ ] Height of Tree
-- [ ] Iterative Traversals
-- [ ] Lowest Common Ancestor
-- [ ] Level Order Traversal
-- [ ] Diameter of a Binary Tree
-- [ ] Recursive Traversals
-- [ ] Diagonal Traversal
-- [ ] Vertical Traversal
-- [ ] Serialize and Deserialize Trees
-- [ ] Other BackToBackSWE Ones
-
-## Graphs
-
-- [ ] BFS Problems
-- [ ] Graph coloring/Bipartition
-- [ ] DFS Problems
-- [ ] Topological Sort
-- [ ] Union Find
-- [ ] Find Shortest Path (Dijkstra's/Bellman Ford
-- [ ] BackToBackSWE Playlist
-- [ ] [LeetCode Graphs Patterns](https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions)
-
-## Searching and Sorting
-
-- [ ] Bubble Sort
-- [ ] Insertion Sort
-- [ ] Quick Sort
-- [ ] Merge Sort
-- [ ] Inversion Count
-- [ ] Count Numbers Larger and Smaller than Self 
-- [ ] Radix Sort
-- [ ] Count Sort
-- [ ] Heap Sort
-- [ ] Binary Search
-- [ ] BackToBackSWE Playlist
-
-## Linked Lists
-
-- [ ] Insert
-- [ ] Delete Nth Node
-- [ ] Reverse
-- [ ] Merge Two Sorted Linked List
-- [ ] Fast Pointer, Slow Pointer technique
-- [ ] Doubly Linked List
-- [ ] BackToBackSWE Playlist
-
-## Hashing
-
-- [ ] Various Types of Hashing
-
-## Bit Manipulation
-
-- [ ] Basics
-- [ ] BitMasking
-- [ ] Powerset and Find tha nums
 
 # One Month Challenge :')
 <!-- 
@@ -115,12 +47,19 @@ Adding solutions to all problems I have completed today
 #### LeetCode
 
  🟢 [Add Binary](https://leetcode.com/problems/add-binary/) 
+
  🟢 [Remove Element](https://leetcode.com/problems/remove-element/description/) 
+
  🟢 [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) 
+
  🟢 [Plus One](https://leetcode.com/problems/plus-one/description/)
+
  🟢 [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
+
  🟢 [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
+
  🟢 [Two Sum](https://leetcode.com/problems/two-sum/description/)
+
  🟢 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 <!-- ---------------------------------------------------------------------------------------------------------------------
 
