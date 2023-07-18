@@ -14,12 +14,12 @@
 
 ## Arrays
 
-- [ ] Sieve
-- [ ] Catalan Numbers
+- [] Sieve
+- [] Catalan Numbers
 - [] Sliding Window Technique
-- [ ] Recursion and Backtracking 
-- [ ] Binary Search [(TopCoder)](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search)
-- [ ] BacktoBackSWE Playlist
+- [] Recursion and Backtracking 
+- [] Binary Search [(TopCoder)](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search)
+- [] BacktoBackSWE Playlist
 - [] Tortoise and Hare Pointer 
 
 ## Trees
@@ -39,27 +39,27 @@
 ## Graphs
 
 - [] BFS Problems
-- [ ] Graph coloring/Bipartition
+- [] Graph coloring/Bipartition
 - [] DFS Problems
-- [ ] Topological Sort
-- [ ] Union Find
-- [ ] Find Shortest Path (Dijkstra's/Bellman Ford
-- [ ] BackToBackSWE Playlist
-- [ ] [LeetCode Graphs Patterns](https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions)
+- [] Topological Sort
+- [] Union Find
+- [] Find Shortest Path (Dijkstra's/Bellman Ford
+- [] BackToBackSWE Playlist
+- [] [LeetCode Graphs Patterns](https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions)
 
 ## Searching and Sorting
 
-- [ ] Bubble Sort
-- [ ] Insertion Sort
-- [ ] Quick Sort
-- [ ] Merge Sort
-- [ ] Inversion Count
-- [ ] Count Numbers Larger and Smaller than Self 
-- [ ] Radix Sort
-- [ ] Count Sort
-- [ ] Heap Sort
-- [ ] Binary Search
-- [ ] BackToBackSWE Playlist
+- [] Bubble Sort
+- [] Insertion Sort
+- [] Quick Sort
+- [] Merge Sort
+- [] Inversion Count
+- [] Count Numbers Larger and Smaller than Self 
+- [] Radix Sort
+- [] Count Sort
+- [] Heap Sort
+- [] Binary Search
+- [] BackToBackSWE Playlist
 
 ## Linked Lists
 
@@ -68,8 +68,8 @@
 - [] Reverse
 - [] Merge Two Sorted Linked List
 - [] Fast Pointer, Slow Pointer technique
-- [ ] Doubly Linked List
-- [ ] BackToBackSWE Playlist
+- [] Doubly Linked List
+- [] BackToBackSWE Playlist
 
 ## Hashing
 
@@ -461,7 +461,7 @@ Adding solutions to all problems I have completed today
 123. 🟢 [Cyclic Rotate](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0)
 124. 🟢 [Find the maximum and minimum element in an array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
 125. 🟢 [Find the "Kth" max and min element of an array](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)
-126. 🟢 [Move all the negative elements to one side of the array ](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0#)
+126. 🟢 [Move all the negative elements to one side of the array](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0#)
 
 ## Day 28
 
