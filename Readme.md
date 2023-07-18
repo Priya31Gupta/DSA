@@ -114,20 +114,14 @@ Adding solutions to all problems I have completed today
 
 #### LeetCode
 
-41. 🟢 [Remove Duplicates from Sorted Array](Leetcode/Problems/Easy/remove-duplicates-from-sorted-array.cpp) _Notes: Use Hash Map!_
-42. 🟢 [Rotate Array](Leetcode/Problems/Easy/rotate-array.cpp) _Notes: Recursion or (i+k)%n Index!_
-43. 🟢 [Reverse String](Leetcode/Problems/Easy/reverse-string.cpp) _Notes: Recursion!_
-
-#### AlgoExpert
-
-44. 🟢 [Palindrome Check](AlgoExpert/Easy/pallindrome-check.cpp) _Notes: 2 Pointer's (Best)!_
-
-#### Educative
-
-[Sliding Window Technique Pattern](Educative/pattern-sliding-window)
-
-45. 🟢 [Average of all contiguous subarrays of size ‘K’](Educative/pattern-sliding-window/introduction.cpp)
-
+ 🟢 [Add Binary](https://leetcode.com/problems/add-binary/) 
+ 🟢 [Remove Element](https://leetcode.com/problems/remove-element/description/) 
+ 🟢 [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) 
+ 🟢 [Plus One](https://leetcode.com/problems/plus-one/description/)
+ 🟢 [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
+ 🟢 [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
+ 🟢 [Two Sum](https://leetcode.com/problems/two-sum/description/)
+ 🟢 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 <!-- ---------------------------------------------------------------------------------------------------------------------
 
 ## Day 1
