@@ -14,7 +14,7 @@
 
 
 # One Month Challenge :')
-<!-- 
+
 **Difficulty Levels solved :**
 
 🟢 Easy: 70  
@@ -22,7 +22,7 @@
  🔴 Hard:2  
  ⚫️ Very Hard: 0  
  🌟 Good to review
-
+<!-- 
 **Total** - 132
 
 <!-- Template for each day
@@ -40,11 +40,6 @@ __Focus for today:__ Heaps/Priority Queues
 
 ## Day 0
 
-Adding solutions to all problems I have completed today
-
-**Focus for today:** Arrays, Strings
-
-#### LeetCode
 
  🟢 [Add Binary](https://leetcode.com/problems/add-binary/) 
 
@@ -61,28 +56,22 @@ Adding solutions to all problems I have completed today
  🟢 [Two Sum](https://leetcode.com/problems/two-sum/description/)
 
  🟢 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
-<!-- ---------------------------------------------------------------------------------------------------------------------
 
 ## Day 1
 
-**Focus for today:** STL/ Linked Lists
+ 🟢 [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) 
 
-#### LeetCode
+ 🟢 [Same Tree](https://leetcode.com/problems/same-tree/description/) 
 
-46. 🟡 [Remove Nth Node From End of List](Leetcode/Problems/Medium/remove-nth-node-from-end.cpp) _Notes: 🌟 use fast and slow pointer's_
-47. 🟢 [Delete Node in a Linked List](Leetcode/Problems/Easy/delete-node-in-linked-list.cpp) _Notes: free(temp) doesn't works!_
+ 🟢 [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)
+ 
+ 🟢 [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
-#### AlgoExpert
+ 🟢 [Single Number](https://leetcode.com/problems/single-number/description/)
 
-48. 🟡 [Linked List Construction](AlgoExpert/Medium/linked-list-construction.cpp) _Notes: Nothing 😆_
+ 🟢 [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 
-#### Educative
-
-[Sliding Window Technique Pattern](Educative/pattern-sliding-window) _Notes: Mostly use HashMaps or HashSets!_
-
-49. 🟡 [Longest Substring with K Distinct Characters](Educative/pattern-sliding-window/longest-substring-with-k-distinct-characters.cpp)
-50. 🟢 [Maximum Sum Subarray of Size K](Educative/pattern-sliding-window/max-sum-subarray.cpp)
-51. 🟢 [Smallest Subarray with a given sum](Educative/pattern-sliding-window/smallest-subarray-with-a-given-sum.cpp)
+ 🟢 [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- 
 
