@@ -73,7 +73,7 @@ __Focus for today:__ Heaps/Priority Queues
 
  🟢 [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 
-<!-- --------------------------------------------------------------------------------------------------------------------- 
+--------------------------------------------------------------------------------------------------------------------- 
 
 ## Day 2
 
@@ -81,9 +81,11 @@ __Focus for today:__ Heaps/Priority Queues
 
 #### LeetCode
 
-52. 🟡 [Minimum Operations to Make Array Equal](Leetcode/Contests/Weekly/202/three-conseqecutive-odd.cpp) _Notes: take average_
-53. 🟢 [Three Consecutive Odds](Leetcode/Contests/Weekly/202/min-operation-array-eq.cpp) _Notes: cakeWalk!_
-54. 🟢 [Reverse Linked List](Leetcode/Problems/Easy/reverse-linklist.cpp)
+ 🟡 [3Sum](https://leetcode.com/problems/3sum/description/)
+
+ 🟡 [Pow](https://leetcode.com/problems/powx-n/) 
+ 
+ 🟡 [Longest Substring without repeating haracter](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- 
 
