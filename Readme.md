@@ -87,20 +87,22 @@ __Focus for today:__ Heaps/Priority Queues
  
  🟡 [Longest Substring without repeating haracter](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 
-<!-- --------------------------------------------------------------------------------------------------------------------- 
+--------------------------------------------------------------------------------------------------------------------- 
 
 ## Day 3
 
-**Focus for today:** Linked Lists
 
-#### LeetCode
+  🟢 [Missing No](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1)
 
-55. 🟢 [Linked List Cycle](Leetcode/Problems/Easy/linked-list-cycle.cpp) _Notes: unordered set or 2 pointers_
-56. 🟢 [Palindrome Linked List](Leetcode/Problems/Easy/palindrome-linked-list.cpp) _Notes: divide into 2 equal parts and use 2 pointers_
+  🟢 [Sort012](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)
 
-#### AlgoExpert
+  🟢 [Leader in Array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)
 
-57. 🔴 [Merge Linked Lists](AlgoExpert/hard/merge-linked-list.cpp) _Notes: 🌟 3 pointers_
+  🟢 [Valid Parenthesis](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)
+
+  🟢 [Equilibrium Point](https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1)
+
+  🟢 [Binary Search](https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- 
 
