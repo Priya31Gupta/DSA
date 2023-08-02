@@ -104,22 +104,25 @@ __Focus for today:__ Heaps/Priority Queues
 
   🟢 [Binary Search](https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1)
 
-<!-- --------------------------------------------------------------------------------------------------------------------- 
+--------------------------------------------------------------------------------------------------------------------- 
 
 ## Day 4
 
-**Focus for today:** Trees
+ 🟢 [SubArray]
 
-#### LeetCode
+ 🟢 [NTraversal]
 
-58. 🟡 [Binary Tree Inorder Traversal](Leetcode/Problems/Medium/bt-inorder-traversal.cpp) _Notes:🌟 use stack_
-59. 🟡 [Validate Binary Search Tree](Leetcode/Problems/Medium/bt-inorder-traversal.cpp) _Notes: inorder has to be in sorted_
-60. 🟡 [Kth Smallest Element in a BST](Leetcode/Problems/Medium/kth-smallest-bst.cpp) _Notes: think of inorder_
-61. 🟢 [Find Mode in Binary Search Tree](Leetcode/Problems/Easy/mode-in-bst.cpp) _Notes: think of preorder_
+ 🟢 [Week_of_days]
 
-#### AlgoExpert
+ 🟢 [Circular_Traversal]
 
-62. 🟡 [BST Construction](AlgoExpert/Medium/bst-constuction.cpp) _Notes: 🌟 basics_
+ 🟢 [Spiral_Traversal]
+
+ 🟢 [BubbleSort]
+
+ 🟢 [SelectionSort]
+ 
+ 🟢 [RotateBy90]
 
 <!-- --------------------------------------------------------------------------------------------------------------------- 
 
