@@ -124,21 +124,14 @@ __Focus for today:__ Heaps/Priority Queues
  
  🟢 [RotateBy90]
 
-<!-- --------------------------------------------------------------------------------------------------------------------- 
+--------------------------------------------------------------------------------------------------------------------- 
 
 ## Day 5
 
-**Focus for today:** Trees
-
-#### LeetCode
-
-63. 🟡 [Binary Tree Level Order Traversal](Leetcode/Problems/Medium/binary-level-order.cpp) _Notes:🌟 use queue_
-64. 🟢 [Convert Sorted Array to Binary Search Tree](Leetcode/Problems/Easy/sorted-to-bst.cpp) _Notes: 🌟binary search_
-65. 🟢 [Maximum Depth of Binary Tree](Leetcode/Problems/Easy/depth-of-bt.cpp) _Notes: Either BFS/DFS_
-
-#### AlgoExpert
-
-66. 🟢 [Find Closest Value in BST](AlgoExpert/Easy/closest-val-bst.cpp) _Notes: helper function_
+  🟢 [Nth from end](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
+  🟢 [Peak Element](https://practice.geeksforgeeks.org/problems/peak-element/1) 
+  🟢 [Common Element](https://practice.geeksforgeeks.org/problems/common-elements1132/1)
+  🟢 [Do Union](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- 
 
