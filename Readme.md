@@ -133,17 +133,16 @@ __Focus for today:__ Heaps/Priority Queues
   🟢 [Common Element](https://practice.geeksforgeeks.org/problems/common-elements1132/1)
   🟢 [Do Union](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1)
 
-<!-- --------------------------------------------------------------------------------------------------------------------- 
+--------------------------------------------------------------------------------------------------------------------- 
 
 ## Day 6
 
-**Focus for today:** Trees
-
-#### LeetCode
-
-67. 🟢 [Invert Binary Tree](Leetcode/Problems/Easy/invert-binary-tree.cpp) _Notes: 🌟 queue/recursion_
-68. 🟢 [Thousand Seperator](Leetcode/Problems/Easy/thousand-separator.cpp) _Notes: Brute-Force_
-69. 🟢 [Valid Parentheses](Leetcode/Problems/Easy/valid-parenthesis.cpp) _Notes: use stack_
+ 🟢 [Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1?page=2&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&sortBy=submissions)
+ 🟢 [Reverse a String](https://practice.geeksforgeeks.org/problems/reverse-a-string/1?page=2&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&sortBy=submissions)
+ 🟢 [Is Pelindrome](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1?page=2&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&sortBy=submissions)
+ 🟢 [Rotate Array](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1?page=2&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&sortBy=submissions)
+ 🟢 [Search an Element in an array](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1?page=2&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&sortBy=submissions)
+ 🟢 [Anagram](https://practice.geeksforgeeks.org/problems/anagram-1587115620/1?page=2&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&sortBy=submissions)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -
 
